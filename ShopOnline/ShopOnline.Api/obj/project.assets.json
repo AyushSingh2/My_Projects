@@ -1530,6 +1530,16 @@
           }
         }
       },
+      "ShopOnline.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Models.dll": {}
+        }
+      },
       "ShopOnline.Web/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -4331,6 +4341,11 @@
         "version.txt"
       ]
     },
+    "ShopOnline.Models/1.0.0": {
+      "type": "project",
+      "path": "../ShopOnline.Models/ShopOnline.Models.csproj",
+      "msbuildProject": "../ShopOnline.Models/ShopOnline.Models.csproj"
+    },
     "ShopOnline.Web/1.0.0": {
       "type": "project",
       "path": "../ShopOnline.Web/ShopOnline.Web.csproj",
@@ -4341,6 +4356,7 @@
     "net6.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
+      "ShopOnline.Models >= 1.0.0",
       "ShopOnline.Web >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -4372,6 +4388,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "E:\\New Major project\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "E:\\New Major project\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            },
             "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {
               "projectPath": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj"
             }
