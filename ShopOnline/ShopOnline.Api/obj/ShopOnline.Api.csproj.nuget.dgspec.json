@@ -163,7 +163,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\New Major project\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "E:\\New Major project\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

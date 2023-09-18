@@ -1,3 +1,9 @@
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfo.cs
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.CoreCompileInputs.cache
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.MvcApplicationPartsAssemblyInfo.cache
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.13.mz549ijgd6.js
@@ -36,6 +42,8 @@ E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framewo
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.dll
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.pdb
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
@@ -288,6 +296,7 @@ E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framewo
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
@@ -345,6 +354,7 @@ E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framewo
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
@@ -596,12 +606,8 @@ E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\icudt.dat
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\icudt_CJK.dat
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\icudt_no_CJK.dat
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfo.cs
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.CoreCompileInputs.cache
-E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\takUS0+T.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\JOX9R+CG.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\hMeCUK2P.gz
@@ -798,6 +804,8 @@ E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\8HcfRIi
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\Nwqc+95U.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\+Uv6j1wX.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\vYnYugT5.gz
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\jpdo6FrF.gz
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\slaRSLBM.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\7dbeHU7t.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\rOtWE0Lu.gz
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\4QYlQvWS.gz
