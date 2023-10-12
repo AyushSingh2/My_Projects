@@ -828,3 +828,7 @@ E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.p
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+E:\New Major project\ShopOnline\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\build-gz\bsEuq6fE.gz

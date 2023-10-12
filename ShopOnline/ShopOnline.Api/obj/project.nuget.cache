@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pUZzXFSXq3lrKJeE35QTEXZglY/flGy0YwmNlhE50Zw/CdtdDnRpP2Ldz9HTlKgEG0LP17YbimCXi5TXk925Zg==",
+  "dgSpecHash": "t9qVuHBa21mmRxK4UsDXKtwPBDeEzrx3NgRfjpkaBmLrYaa2rUTLyHlLPE4UyUV1e5mssw2aIJ8AzZ2DmeCzWQ==",
   "success": true,
   "projectFilePath": "E:\\New Major project\\ShopOnline\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
@@ -60,6 +60,7 @@
     "C:\\Users\\ayushsing\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\ayushsing\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

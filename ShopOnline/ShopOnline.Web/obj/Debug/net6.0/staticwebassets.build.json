@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GaL8/tsO/tKO43PMw7PAZAuHXptsuMZNnHlhPw0C4q0=",
+  "Hash": "xmZ9HAjnfSWu3KCILa9QvTcunQChRRP3IEyyZUKenmI=",
   "Source": "ShopOnline.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -661,6 +661,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "ShopOnline.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ayushsing\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\ShopOnline.Models.dll",
@@ -4214,6 +4231,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.dll"
+    },
+    {
+      "Identity": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\obj\\Debug\\net6.0\\build-gz\\bsEuq6fE.gz",
+      "SourceId": "ShopOnline.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "E:\\New Major project\\ShopOnline\\ShopOnline.Web\\obj\\Debug\\net6.0\\build-gz\\BZfW+Hzt.gz",
