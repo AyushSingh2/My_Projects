@@ -1,9 +1,3 @@
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.csproj.AssemblyReference.cache
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.AssemblyInfoInputs.cache
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.AssemblyInfo.cs
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.csproj.CoreCompileInputs.cache
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Web.staticwebassets.runtime.json
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\appsettings.Development.json
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\appsettings.json
@@ -53,6 +47,7 @@ E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Microsoft.OpenAp
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -85,6 +80,13 @@ E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Model
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Web.dll
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Models.pdb
 E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Web.pdb
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.csproj.AssemblyReference.cache
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.AssemblyInfoInputs.cache
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.AssemblyInfo.cs
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.csproj.CoreCompileInputs.cache
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\staticwebassets\msbuild.ShopOnline.Api.Microsoft.AspNetCore.StaticWebAssets.props
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopOnline.Api.props
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopOnline.Api.props
@@ -99,5 +101,3 @@ E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\refint\ShopOnlin
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.pdb
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.genruntimeconfig.cache
 E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ref\ShopOnline.Api.dll
-E:\New Major project\ShopOnline\ShopOnline.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
-E:\New Major project\ShopOnline\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.MvcApplicationPartsAssemblyInfo.cs
