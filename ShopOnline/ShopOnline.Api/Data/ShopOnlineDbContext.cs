@@ -292,12 +292,14 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 1,
-                Name = "Beauty"
+                Name = "Beauty",
+                IconCSS = "fas fa-spa"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 2,
-                Name = "Furniture"
+                Name = "Furniture",
+                IconCSS = "fas fa-couch"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
