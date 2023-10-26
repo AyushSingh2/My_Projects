@@ -833,3 +833,4 @@ E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.d
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
+E:\New Major project\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\ProductCategoriesNavMenu.razor.rz.scp.css

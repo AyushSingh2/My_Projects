@@ -304,12 +304,14 @@ namespace ShopOnline.Api.Data
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 3,
-                Name = "Electronics"
+                Name = "Electronics",
+                IconCSS = "fas fa-headphones"
             });
             modelBuilder.Entity<ProductCategory>().HasData(new ProductCategory
             {
                 Id = 4,
-                Name = "Shoes"
+                Name = "Shoes",
+                IconCSS = "fas fa-shoe-prints"
             });
         }
 
