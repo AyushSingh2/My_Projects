@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t9qVuHBa21mmRxK4UsDXKtwPBDeEzrx3NgRfjpkaBmLrYaa2rUTLyHlLPE4UyUV1e5mssw2aIJ8AzZ2DmeCzWQ==",
+  "dgSpecHash": "CGYTLfKe+jlEO/liwQ2lC9xTKslDPKU7QNylSrF/8T2v4pRSBmpenfRpn34aPBAzGAfhWPtmpZKWY270wTeUBQ==",
   "success": true,
   "projectFilePath": "E:\\New Major project\\ShopOnline\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayushsing\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\ayushsing\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\microsoft.aspnetcore.authorization.6.0.11.nupkg.sha512",
     "C:\\Users\\ayushsing\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.11\\microsoft.aspnetcore.components.6.0.11.nupkg.sha512",
