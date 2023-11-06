@@ -15,4 +15,7 @@ builder.Services.AddScoped<IShoppingCartService, ShoppingCartService>();
 
 builder.Services.AddBlazoredLocalStorage();
 
+builder.Services.AddScoped<IManageProductsLocalStorageService, ManageProductsLocalStorageService>();
+builder.Services.AddScoped<IManageCartItemsLocalStorageService, ManageCartItemsLocalStorageService>();
+
 await builder.Build().RunAsync();
